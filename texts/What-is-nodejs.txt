@@ -1,0 +1,33 @@
+What is Node.js?
+- Node.js is an open-source and cross-platform JavaScript runtime environment. 
+It is a popular tool for almost any kind of project! Node.js runs the V8 
+JavaScript engine, Google Chrome's core, outside the browser. This allows 
+Node.js to be very performant. A Node.js app runs in a single process, without 
+creating a new thread for every request. Node.js provides a set of asynchronous 
+I/O primitives in its standard library that prevent JavaScript code from 
+blocking and generally, libraries in Node.js are written using non-blocking
+paradigms, making blocking behavior the exception rather than the norm.
+
+Is Node.js programming language?
+It is necessary to understand that Node.js is NOT a framework or a library, 
+as with traditional application software, but rather a runtime environment.
+
+Why use Node.js?
+1. Language Sharing Across the Stack
+2. Rapid Development
+3. The Node Package Manager
+4. Single-Threaded Event Loop Architecture 
+5. Native Support in AWS
+
+History of Node.js
+Node.js was written initially by Ryan Dahl in 2009, about thirteen years after 
+the introduction of the first server-side JavaScript environment, Netscape's 
+LiveWire Pro Web. The initial release supported only Linux and Mac OS X. Its 
+development and maintenance were led by Dahl and later sponsored by Joyent.
+
+Node.js vs Browser
+Both the browser and Node.js use JavaScript as their programming language.
+Building apps that run in the browser is entirely different than building a
+Node.js application. Even though it's always JavaScript, some key differences 
+make the experience radically different.
+
