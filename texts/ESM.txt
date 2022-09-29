@@ -1,0 +1,8 @@
+What is ESM?
+- ESM stands for ES Modules. It is Javascript's proposal to implement a 
+standard module system. I am sure many of you have seen this:
+
+- ESM is the best module format thanks to its simple syntax, async nature, and tree-shakeability.
+- UMD works everywhere and usually used as a fallback in case ESM does not work
+- CJS is synchronous and good for back end.
+- AMD is asynchronous and good for front end.
